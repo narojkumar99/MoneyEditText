@@ -10,7 +10,7 @@ Usage
 1. Add jcenter() to repositories block in your gradle file.
 2. Add `compile 'com.shuhart.moneyedittext:moneyedittext-kotlin:1.0'` to your dependencies.
 2. Add `MoneyEditText` into your layouts or view hierarchy.
-3. Look into the sample for additional details on how to use and configure the library.
+3. Look into the sample for additional detail on how to use and configure the library.
 
 License
 =======
